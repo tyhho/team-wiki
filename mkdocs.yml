@@ -1,0 +1,8 @@
+site_name: Wiki Test 2
+
+theme:
+    name: material
+
+nav:
+    - Home: index.md
+    - About: about.md
