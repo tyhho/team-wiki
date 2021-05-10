@@ -1,3 +1,1 @@
-# mkdocs-material-test
-
-Display link: https://tyhho.github.io/mkdocs-material-test/about/
+# iDEC 2021 Mock Team Wiki
