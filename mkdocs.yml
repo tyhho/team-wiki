@@ -26,13 +26,15 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
   # For sortable data tables: https://squidfunk.github.io/mkdocs-material/reference/data-tables/
-  - javascripts/table.js
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - javascripts/tables.js
 
 edit_uri: blob/main/docs/
 
-copyright: Copyright &copy; 2021 iDEC | The International Directed Evolution Competition (iDEC) is a Scottish Charitable Incorporate Organisation (SCIO), registered in Scotland, with charity number：SC050826
+repo_url: https://github.com/idec2021/team-wiki
+
+
+copyright: Copyright &copy; 2021 iDEC. CC-BY-4.0 | The International Directed Evolution Competition (iDEC) is a Scottish Charitable Incorporate Organisation (SCIO), registered in Scotland, with charity number：SC050826
 
 nav:
   - Home: index.md
