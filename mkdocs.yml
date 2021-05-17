@@ -38,8 +38,10 @@ copyright: Copyright &copy; 2021 iDEC. CC-BY-4.0 | The International Directed Ev
 
 nav:
   - Home: index.md
-  - Background: background.md
-  - Results: results.md
-  - Protocols: protocols.md
-  - Lab notebook: notebook.md
+  - Project:
+      - Background: background.md
+      - Results: results.md
+      - Documentation:
+          - Protocols: documentation/protocols.md
+          - Lab notebook: documentation/notebook.md
   - Some useful features: useful_features.md
